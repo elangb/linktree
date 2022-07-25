@@ -1,7 +1,7 @@
 # 🔗 Duplicate Linktree
-## 🔗 Responsive 404 Page
+## 🔗 Duplicate Linktree
 
-- Responsive 404 Page Using HTML CSS & JavaScript
+- Duplicate Linktree Using HTML CSS & JavaScript
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
